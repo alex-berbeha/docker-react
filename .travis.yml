@@ -1,4 +1,4 @@
-sudo:requireds
+sudo: requireds
 servises:
     - docker
 befor_install:
